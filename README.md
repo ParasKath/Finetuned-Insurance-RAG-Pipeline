@@ -77,7 +77,7 @@ Fine-Tuned Insurance Company Support Bot/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/akshada2712/Finetuned-Insurance-RAG-Pipeline.git
+   git clone https://github.com/paraskath/Finetuned-Insurance-RAG-Pipeline.git
    cd Finetuned-Insurance-RAG-Pipeline
    ```
 
